@@ -22,6 +22,10 @@ func BigBarks() string {
 	return dog.WhenGrownUp(Barks())
 }
 
-func From10() {
-	fmt.Println("I am from 1.0")
+func From100() {
+	fmt.Println("I am from 1.0.0")
+}
+
+func From101() {
+	fmt.Println("I am from 1.0.1")
 }
